@@ -29,3 +29,5 @@ public
 src
 index.html
 data/exploration.ipynb
+__pycache__/
+*.py[cod]
